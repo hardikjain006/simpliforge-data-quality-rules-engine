@@ -1,0 +1,101 @@
+id,name,email,age
+1,User1,user1@example.com,21
+2,User2,user2@example.com,22
+3,User3,user3@example.com,23
+4,User4,user4@example.com,24
+5,User5,user5@example.com,25
+6,User6,user6@example.com,26
+7,User7,user7@example.com,27
+8,User8,user8@example.com,28
+9,User9,user9@example.com,29
+10,User10,user10@example.com,30
+11,User11,user11@example.com,31
+12,User12,user12@example.com,32
+13,User13,user13@example.com,33
+14,User14,user14@example.com,34
+15,User15,user15@example.com,35
+16,User16,user16@example.com,36
+17,User17,user17@example.com,37
+18,User18,user18@example.com,38
+19,User19,user19@example.com,39
+20,User20,user20@example.com,40
+21,User21,user21@example.com,41
+22,User22,user22@example.com,42
+23,User23,user23@example.com,43
+24,User24,user24@example.com,44
+25,User25,user25@example.com,45
+26,User26,user26@example.com,46
+27,User27,user27@example.com,47
+28,User28,user28@example.com,48
+29,User29,user29@example.com,49
+30,User30,user30@example.com,50
+31,User31,user31@example.com,51
+32,User32,user32@example.com,52
+33,User33,user33@example.com,53
+34,User34,user34@example.com,54
+35,User35,user35@example.com,55
+36,User36,user36@example.com,56
+37,User37,user37@example.com,57
+38,User38,user38@example.com,58
+39,User39,user39@example.com,59
+40,User40,user40@example.com,60
+41,User41,user41@example.com,61
+42,User42,user42@example.com,62
+43,User43,user43@example.com,63
+44,User44,user44@example.com,64
+45,User45,user45@example.com,65
+46,User46,user46@example.com,66
+47,User47,user47@example.com,67
+48,User48,user48@example.com,68
+49,User49,user49@example.com,69
+50,User50,user50@example.com,20
+51,User51,user51@example.com,21
+52,User52,user52@example.com,22
+53,User53,user53@example.com,23
+54,User54,user54@example.com,24
+55,User55,user55@example.com,25
+56,User56,user56@example.com,26
+57,User57,user57@example.com,27
+58,User58,user58@example.com,28
+59,User59,user59@example.com,29
+60,User60,user60@example.com,30
+61,User61,user61@example.com,31
+62,User62,user62@example.com,32
+63,User63,user63@example.com,33
+64,User64,user64@example.com,34
+65,User65,user65@example.com,35
+66,User66,user66@example.com,36
+67,User67,user67@example.com,37
+68,User68,user68@example.com,38
+69,User69,user69@example.com,39
+70,User70,user70@example.com,40
+ 71 ,  Grace Hopper  ,  grace@example.com  , 85 
+	72	,	Alan Turing	,	grace2@example.com	,	41	
+73,"Doe, Jane",  jane.doe@example.com  ,33
+7,User7 Dupe,user7.dupe@example.com,27
+7,User7 Dupe2,user7.dupe2@example.com,28
+80,No At,no-at-example.com,30
+81,Two Ats,a@b@c.com,31
+82,Inner Space,user @example.com,32
+83,Inner Tab,user	@example.com,33
+84,No Dot,user85@example,34
+85,Lead Dot,user86@.example.com,35
+86,Trail Dot,user87@example.com.,36
+87,Empty,,37
+88,Spaces Only,   ,38
+89,Empty Domain,user@,39
+90,Empty Local,@example.com,40
+91,Tab Domain,user@exam	ple.com,41
+74,Valid Seven Four,extra74@example.org,42
+75,Valid Seven Five,extra75@example.org,43
+76,Valid Seven Six,extra76@example.org,44
+77,Valid Seven Seven,extra77@example.org,45
+92,Valid Nine Two,extra92@example.org,44
+93,"O Neil, Tom",tom.oneil@example.org,45
+ 94 ,  Padma  ,  padma@example.net  , 50 
+95,Zed,zed@sub.example.co.uk,51
+96,Dot Local,first.last@example.com,52
+97,Plus Tag,user+tag@example.com,53
+98,Hyphen Domain,user@mail-example.com,54
+99,Underscore,first_last@example.com,55
+100,Final Row,final100@example.com,60
